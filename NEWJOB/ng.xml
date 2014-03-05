@@ -1,0 +1,7 @@
+<suite name="my pro">
+<test name="mytest">
+<classes>
+<class name="com.tester"></class>
+</classes>
+</test>
+</suite>
